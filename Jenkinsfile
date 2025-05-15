@@ -11,8 +11,8 @@ pipeline {
         stage('Info') {
             steps {
                 sh '''
-                echo "Name: Divya Ananya Moduga"
-                echo "Roll Number: SE22UCSE084"
+                echo "Name: K Revanth Reddy "
+                echo "Roll Number: SE22UCSE120"
                 '''
             }
         }
